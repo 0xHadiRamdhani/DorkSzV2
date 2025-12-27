@@ -20,7 +20,7 @@ DorkSz is an advanced tool for finding websites vulnerable to SQL injection usin
 - Python 3.6 or higher
 - pip package manager
 
-### Install Dependencies
+### Manual Installation
 ```bash
 # Clone or download the repository
 git clone https://github.com/0xHadiRamdhani/DorkSzV2
@@ -28,6 +28,12 @@ cd DorkSzV2
 
 # Install required dependencies
 pip install -r requirements.txt
+
+# Make executable (Unix/Linux/macOS)
+chmod +x DorkSz.py
+
+# Test installation
+python3 DorkSz.py --version
 ```
 
 ### Required Dependencies
