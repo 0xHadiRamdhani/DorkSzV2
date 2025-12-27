@@ -22,7 +22,7 @@ def print_banner():
     """
     print("\033[31m" + banner + "\033[0m")
     print("\033[33mDorkSz Setup Script v4.0\033[0m")
-    print("\033[33mAuthor: HadsXdevPy\033[0m")
+    print("\033[33mAuthor: 0xHadiRamdhani\033[0m")
     print()
 
 def check_python_version():

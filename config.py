@@ -79,7 +79,7 @@ LOG_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 LOG_DATE_FORMAT = '%Y-%m-%d %H:%M:%S'
 
 # Update settings
-UPDATE_URL = 'https://api.github.com/repos/HadsXdevPy/DorkSz/releases/latest'
+UPDATE_URL = 'https://api.github.com/repos/0xHadiRamdhani/DorkSz/releases/latest'
 CURRENT_VERSION = '4.0'
 
 # Legal disclaimer

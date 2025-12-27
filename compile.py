@@ -24,7 +24,7 @@ def print_banner():
     """
     print("\033[31m" + banner + "\033[0m")
     print("\033[33mDorkSz Binary Compiler v1.0\033[0m")
-    print("\033[33mAuthor: HadsXdevPy\033[0m")
+    print("\033[33mAuthor: 0xHadiRamdhani\033[0m")
     print()
 
 def check_dependencies():

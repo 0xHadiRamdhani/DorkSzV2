@@ -2,7 +2,7 @@
 """
 DorkSz - SQL Injection Vulnerability Scanner
 A tool for finding websites vulnerable to SQL injection using Google dorking
-Author: HadsXdevPy (Updated version)
+Author: 0xHadiRamdhani (Updated version)
 Thanks To: Haz3ll and Xn5
 Version: 4.0
 """
@@ -40,7 +40,7 @@ LOGO = r"""
 
 # Version
 VERSION = "4.0"
-AUTHOR = "HadsXdevPy"
+AUTHOR = "0xHadiRamdhani"
 
 def clear_screen():
     """Clear screen cross-platform"""
